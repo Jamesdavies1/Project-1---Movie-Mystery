@@ -1,0 +1,11 @@
+html {
+  background-color:black;
+}
+
+.choice-button, .back-to-start-button {
+  width: 100%;
+}
+
+.game-card {
+  background-color: black;
+}
